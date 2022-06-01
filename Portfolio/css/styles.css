@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Federo&family=Montserrat:wght@300;600&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 100%;
+    color: white;
+    background-image:url(https://lh3.googleusercontent.com/HfGyTg_OxPhpNevo1bW3UII9IWju24OOKqR_atMMlvE9zoLTNEDmEype3CPbvkqG9VreBLY9hbH8Ms0FyJxPF0_7S92L3jEOw6B_ANw6zM-zTrr-orB1J_aJM7bbByycDxZC2auSuESwP9IFha7P5UMzVpwlSVNlEaNEt5qESCcfOjLOSYa4PM4LV7q7QV18M4-s-FLK5lOoZe_d3ubdThJaiHJtjeZBYwGsdBJWAh9joHhRiiHhVICrCZypUyr2rRedEoWHB76IqIu_blRrQ6Td3-C9V8XLv6oL5P7Sn4bI7BJtjDKsccI4_Ck3keyut9LWnffnSfYD-tLBKS2U7Xoj3s1xSMi9oHW79sQzDqXu6_dVTxGvDNwrj1pQyCDLxNHlJo5tj1nNSdWsrOKMeACZJwvg6aUuLTawzyAoP7-zoV5Q9A1bUJw7ddQah7NfXWLfT6T1OSpNPgtwxIPO6Bm9Yw8zMX6QlLQHzMWy4XLpQtq7jhawjlLmXlkGm_egMH6eSpEiMp2stcqyE8wceWICVLqh3iBb-pUMnxI7XkmywbLenW4VhNz_vYtkg-WtW48q63OXXal-H7V1v9gKC4CGqpDiYoylVgRtuzjqmVxHULO-y_vgb89n7AD1nIE8o34UaECO0NPohYjbx3uimky1BIFUlh_h8wn3H6WhEb5hjdfpxAmNxpB4BAnd6mZrrE-6QJWKfvGXzdhPi85Wmz3bkbHG8t2x_TXkrdo50M57soJYJnKCagt8PcN6tGgWod3eMCgCuNWRYzESEEpE8qEFY24TVZ77-RMh=w600-h368-no?authuser=0);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-family: 'Federo', sans-serif;
+    text-transform: uppercase;
+    font-size: 7.7em;
+}
+
+p {
+    font-size: 2.5em
+}
+#barra {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.5em
+}
+
+@media (max-width: 768px){
+    body {font-size:60%}
+}
